@@ -1,0 +1,20 @@
+{
+  "name": "e-commerce-php",
+  "version": "1.0.0",
+  "description": "Full e-commerce website with php and mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./sass/style.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YasithSam/E-Commerce-PHP.git"
+  },
+  "author": "Yasith Samaradivakara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YasithSam/E-Commerce-PHP/issues"
+  },
+  "homepage": "https://github.com/YasithSam/E-Commerce-PHP#readme"
+}
